@@ -1,0 +1,121 @@
+<HTML>
+
+<HEAD>
+<TITLE>Squigby!</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#22AA33">
+<TABLE ALIGN="CENTER" CELLPADDING="5" WIDTH="100%">
+<TR ALIGN="CENTER">
+
+
+<TD WIDTH="15%">
+<B><A HREF="tutorial/">Tutorial</A></B>
+</TD>
+
+<TD WIDTH="15%">
+<B><A HREF="tutorial/sample01.shtml">Sample Game</A></B>
+</TD>
+
+<TD WIDTH="40%">
+<A HREF="main.shtml"><IMG SRC="title.png" ALIGN="CENTER" BORDER="0"></A>
+</TD>
+
+<TD WIDTH="15%">
+<B><A HREF="rules/">Basic Rules</A></B>
+</TD>
+
+<TD WIDTH="15%">
+<B><FONT COLOR=RED><EM>NEW!</EM></FONT>&nbsp;&nbsp;&nbsp;<A HREF="ific8/">The Squigbificator!</A></B>
+</TD>
+
+</TR>
+</TABLE>
+
+
+
+<table border="0" cellspacing="15" cellpadding="0">
+<tr>
+<td valign="top" width="49%">
+
+<H1 ALIGN="CENTER">Welcome to Squigby!</H1>
+
+<p>Welcome to the official homepage of that crazy game of skill at cards, Squigby!  Here, you can read the collected <a href="rules/">rules</a>, go through a less verbose but more understandable <a href="tutorial/">tutorial</a>, as well as a handy, step-by-step <a href="tutorial/sample01.shtml">sample game</a>.</p>
+
+<p>New here?  Please <A HREF="mailto:squigby@tridity.org">e-mail us</A> to let us know what you think.  This new game is sweeping the nation, and boy do those bristles sting!</p>
+
+<div align="center">
+<TABLE BORDER="0">
+<TR><TD>
+    <font size="+2">
+    <UL>
+	<LI>Step 1: Read the Squigby! <A HREF="tutorial/">Tutorial</A>
+	<LI>Step 2: Follow the <A HREF="tutorial/sample01.html">Sample Game</A>
+    </UL>
+    </font>
+</TD></TR>
+</TABLE>
+</div>
+
+<P>For those of you like your Squigby! undiluted, you can read <font size="+2"><A HREF="rules/">The Grand Collected Rules Of Squigby!</A></font>, which includes all of the rules described in the Tutorial, plus some more advanced ones!</P>
+
+
+</td>
+
+<td bgcolor="#000000" width="2"><br></td>
+
+<td valign="top">
+
+<H1 ALIGN="CENTER">Squigby! News</H1>
+
+<hr noshade>
+<blockquote>
+<font size="-1"><i>
+"Seek, above all, for a game worth playing.  And,
+having found the game, play it with intensity.  Play
+as if your Life and Sanity depended on it.  They do
+depend on it!  And if life does not seem to offer you
+a game worth playing, invent one!"
+               <p>-- Robert deRopp, </i>The Master Game<i></p>
+</i></font>
+</blockquote>
+<hr noshade>
+
+<table border="0" cellspacing="7">
+<tr valign="top">
+    <td>26 Sep 2000.</td>
+    <td>Diagrams have been added to <a href="ific8/"><b>the Squigbificator</b></a>!</td>
+</tr><tr valign="top">
+    <td>2 Sep 2000.</td>
+    <td>After much toil, <A HREF="ific8/"><b>The Squigbificator!</b></A> is fully operational.  What is the Squigbificator, you ask?  Well, it may not be the ultimate answer to Life, the Universe, and Everything, but it <EM>definitely</EM> is the ultimate answer to the question "How do you spell Squigby?".</td>
+</tr>
+</table> <!-- Inner "news" table -->
+
+</td>
+</tr>
+</table> <!-- Outer Table -->
+
+<div align="center">
+<EM>And remember, have fun, and keep things Squigbylike!</EM>
+</div>
+
+<CENTER> 
+<P><A HREF="http://www.tridity.org">Back to <FONT FACE="sans-serif">tridity.org!</FONT></A> 
+
+<P> <HR> <P> 
+
+
+<font size="-2">What's this fine print at the bottom?  The entire US tax code?  No, it's just
+the copyright information. Except that Squigby! is <a href="http://www.gnu.org/copyleft/">
+copylefted</a>, which means that it's &copy;opyright 2000 Eric &quot;Wilson&quot; Schwartz,
+and provided under the terms of the GNU Project's <a
+href="http://www.gnu.org/copyleft/gpl.html">General Public License</a>. Many people have
+contributed to Squigby! as represented here, including, in no particular order, Marc Alvarado,
+Aaron Chernak, Schuyler Erle, Vanessa Hays, Mike Pumphrey, Shannon Waite, and countless
+others, who probably should be counted at some point.  Thanks be to Matt Chernak for the logo!
+Any use of this material for commercial gain is illegal, extraordinarily un-Squigbylike, and
+hence Barfable.  Have a nice day.  Message ends.  (ding)</font>
+
+</CENTER> 
+</BODY> 
+</HTML>

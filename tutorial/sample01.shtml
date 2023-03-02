@@ -1,0 +1,236 @@
+<HTML>
+
+<HEAD>
+<TITLE>Squigby!</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#22AA33">
+<TABLE ALIGN="CENTER" CELLPADDING="5" WIDTH="100%">
+<TR ALIGN="CENTER">
+
+
+<TD WIDTH="15%">
+<B><A href="../tutorial/">Tutorial</A></B>
+</TD>
+
+<TD WIDTH="15%">
+<B><A href="../tutorial/sample01.shtml">Sample Game</A></B>
+</TD>
+
+<TD WIDTH="40%">
+<A href="../main.shtml"><IMG src="../title.png" ALIGN="CENTER" BORDER="0"></A>
+</TD>
+
+<TD WIDTH="15%">
+<B><A href="../rules/">Basic Rules</A></B>
+</TD>
+
+<TD WIDTH="15%">
+<B><FONT COLOR=RED><EM>NEW!</EM></FONT>&nbsp;&nbsp;&nbsp;<A href="../ific8/">The Squigbificator!</A></B>
+</TD>
+
+</TR>
+</TABLE>
+
+
+
+
+<CENTER>
+<H1>Squigby! Sample Game</H1>
+<H2>Page 1</H2>
+</CENTER>
+
+<P>
+<HR NOSHADE COLOR=BLACK WIDTH=80%>
+<P>
+
+
+
+<table border="0" cellspacing="5" cellpadding="5" width=100%>
+<TR>
+<TD BACKGROUND="wood.png" ALIGN="CENTER">
+<!--01.html-->
+<table border="0" cellspacing="0" cellpadding="5">
+<tr align="center">
+	<td>
+		<b>Recycling Bin</b><BR>
+		<img src="mt.gif"><P>
+	</td>
+	<td>
+		<b>Draw Pile</b><BR>
+		<img src="back.png" height="64" width="48" hspace="20"><P>
+	</td>
+	<td>
+		<b>Squigby! Pile</b><BR>
+		<img src="mt.gif"><P>
+	</td>
+</tr>
+<tr align="center" valign="bottom">
+	<td>
+		<img src="Ah-.png"><img src="2h-.png"><img src="3s-.png"><img src="5d-.png"><img src="7c-.png"><img src="Qd-.png"><img src="Ks.png">
+		<p><b>T-800</b></p>
+	</td>
+	<td>
+		&nbsp;
+	</td>
+	<td>
+		<img src="2s-.png"><img src="4h-.png"><img src="6c-.png"><img src="8h-.png"><img src="8c-.png"><img src="9c-.png"><img src="Kh.png">
+		<p><b>Yoda</b></p>
+	</td>
+</tr>
+<tr align="center">
+	<td colspan="3">
+		<img src="4c-.png"><img src="6h-.png"><img src="9d-.png"><img src="9s-.png"><img src="Td-.png"><img src="Qc-.png"><img src="Kc.png">
+		<p><b>Verbal Kint</b></p>
+	</td>
+</tr>
+</table>
+
+</TD>
+
+<TD>
+Our players in this sample game will be known as T-800, Yoda, and Verbal Kint. Verbal shuffles the deck and asks the T-800 Terminator unit to cut the deck. The leather clad, muscle stacked cyborg lifts a giant Bowie knife out of his coat.
+<P>
+"Wait! Stop! Put the knife away. Yoda, you cut the deck."
+<P>
+"But, you towld me to caht da deck. I do naht undahrstand," the Terminator insists.
+</TD>
+</TR>
+
+<TR>
+<TD COLSPAN="2"><P CLEAR=ALL><HR NOSHADE COLOR=BLACK WIDTH=80%><P></TD>
+</TR>
+
+<TR>
+<TD BACKGROUND="wood.png" ALIGN="CENTER">
+<!--02.html-->
+<table border="0" cellspacing="0" cellpadding="5">
+<tr align="center">
+	<td>
+		<b>Recycling Bin</b><BR>
+		<img src="mt.gif"><P>
+	</td>
+	<td>
+		<b>Draw Pile</b><BR>
+		<img src="back.png" height="64" width="48" hspace="20"><P>
+	</td>
+	<td>
+		<b>Squigby! Pile</b><BR>
+		<img src="7c.png"><P>
+	</td>
+</tr>
+<tr align="center">
+	<td>
+		<img src="Ah-.png"><img src="2h-.png"><img src="3s-.png"><img src="5d-.png"><img src="Qd-.png"><img src="Ks.png">
+		<p><b>T-800</b></p>
+	</td>
+	<td>
+		&nbsp;
+	</td>
+	<td>
+		<img src="2s-.png"><img src="4h-.png"><img src="6c-.png"><img src="8h-.png"><img src="8c-.png"><img src="9c-.png"><img src="Kh.png">
+		<p><b>Yoda</b></p>
+	</td>
+</tr>
+<tr align="center">
+	<td colspan="3">
+		<img src="4c-.png"><img src="6h-.png"><img src="9d-.png"><img src="9s-.png"><img src="Td-.png"><img src="Qc-.png"><img src="Kc.png">
+		<p><b>Verbal Kint</b></p>
+	</td>
+</tr>
+</table>
+
+</TD>
+<TD>
+Now, since Verbal was the Dealer, T-800 is the Connection. He begins play by placing a SEVEN onto the Squigby Pile. Got it?
+</TD>
+</TR>
+
+<TR>
+<TD COLSPAN="2"><P CLEAR=ALL><HR NOSHADE COLOR=BLACK WIDTH=80%><P></TD>
+</TR>
+
+<TR>
+<TD BACKGROUND="wood.png" ALIGN="CENTER">
+<!--03.html-->
+<table border="0" cellspacing="0" cellpadding="5">
+<tr align="center">
+	<td>
+		<b>Recycling Bin</b><BR>
+		<img src="mt.gif"><P>
+	</td>
+	<td>
+		<b>Draw Pile</b><BR>
+		<img src="back.png" height="64" width="48" hspace="20"><P>
+	</td>
+	<td>
+		<b>Squigby! Pile</b><BR>
+		<img src="7c-.png"><img src="9c.png"><P>
+	</td>
+</tr>
+<tr align="center">
+	<td>
+		<img src="Ah-.png"><img src="2h-.png"><img src="3s-.png"><img src="5d-.png"><img src="Qd-.png"><img src="Ks.png">
+		<p><b>T-800</b></p>
+	</td>
+	<td>
+		&nbsp;
+	</td>
+	<td>
+		<img src="2s-.png"><img src="4h-.png"><img src="6c-.png"><img src="8h-.png"><img src="8c-.png"><img src="Kh.png">
+		<p><b>Yoda</b></p>
+	</td>
+</tr>
+<tr align="center">
+	<td colspan="3">
+		<img src="4c-.png"><img src="6h-.png"><img src="9d-.png"><img src="9s-.png"><img src="Td-.png"><img src="Qc-.png"><img src="Kc.png">
+		<p><b>Verbal Kint</b></p>
+	</td>
+</tr>
+</table>
+
+</TD>
+<TD>
+Now, since Verbal was the Dealer, and T-800 was the Connection, Yoda is the Second Party Moocher. But seriously, he's just a short green Jedi. Yoda now has the opportunity to establish Direction. And he does this by playing a NINE. This means the Direction is going UP!
+</TD>
+</TR>
+</TABLE>
+
+
+
+<P CLEAR=ALL>
+<HR NOSHADE COLOR=BLACK WIDTH=80%>
+<P>
+
+<CENTER>
+<H3><A HREF="sample02.shtml">Next...</A></H3>
+
+Page
+&nbsp;&nbsp;&nbsp;<A HREF="sample02.shtml">2</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample03.shtml">3</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample04.shtml">4</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample05.shtml">5</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample06.shtml">6</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample07.shtml">7</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample08.shtml">8</A>
+&nbsp;&nbsp;&nbsp;<A HREF="sample09.shtml">9</A>
+<P>
+<A HREF="../main.shtml">Go back!!</A>
+<HR NOSHADE COLOR=BLACK WIDTH=80%>
+<P>
+
+<font size="-2">What's this fine print at the bottom?  The entire US tax code?  No, it's just
+the copyright information. Except that Squigby! is <a href="http://www.gnu.org/copyleft/">
+copylefted</a>, which means that it's &copy;opyright 2000 Eric &quot;Wilson&quot; Schwartz,
+and provided under the terms of the GNU Project's <a
+href="http://www.gnu.org/copyleft/gpl.html">General Public License</a>. Many people have
+contributed to Squigby! as represented here, including, in no particular order, Marc Alvarado,
+Aaron Chernak, Schuyler Erle, Vanessa Hays, Mike Pumphrey, Shannon Waite, and countless
+others, who probably should be counted at some point.  Thanks be to Matt Chernak for the logo!
+Any use of this material for commercial gain is illegal, extraordinarily un-Squigbylike, and
+hence Barfable.  Have a nice day.  Message ends.  (ding)</font>
+
+</CENTER>
+</BODY>
+</HTML>
+

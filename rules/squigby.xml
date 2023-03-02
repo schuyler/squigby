@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<ruleset>
+<rule title="The Rules">
+	<rule title="Play">
+Anything covered under these Rules.
+	</rule>
+	<rule title="Definitions">
+		<rule>
+"Directed" or "Specified," as in, by Rule or Adjudication.
+		</rule>
+		<rule>
+"Normally" shall be construed to mean that the Rule holds in
+all circumstances not specified by other Rules.
+		</rule>
+		<rule>
+"Or else" shall be construed to mean that if the Rule is demonstrably
+Violated, the Offense is Barfable.
+		</rule>
+		<rule>
+The Term "Term" shall be construed to mean a Term spoken by a
+Player that indicates Invokation of the Rule specified by the
+Term.
+		</rule>
+	</rule>
+	<rule title="Time Units">
+		<rule title="Gametime">
+Any continous period of Squigbiy! Play. Normally, Rules may only
+be Invoked during Gametime.
+		</rule>
+		<rule title="Turn">
+A period of Time during which a Player has exclusive Rights to
+certain Actions, which normally concludes with the Play of at
+least one (1) Card. Any following Turn commences immediately
+upon the Conclusion of the current Turn.
+		</rule>
+		<rule title="Round">
+An ordered cycle of Turns in which each Player takes exactly
+one, or else.
+		</rule>
+		<rule title="Squiigbiy!">
+A possibly fractional ordered cycle of Turns concluding with
+the Taking of the Sgkwuigkbey!
+		</rule>
+		<rule title="Game">
+A possibly fractional sequence of Rounds that lasts exactly until
+a Player has Won.
+		</rule>
+		<rule title="Gamebreak">
+Any stretch of Time between Suspension and Resumption of Gametime.
+Any Player may invoke Gamebreak at any Time, but excessive frequency
+or duration is Barfable once per Infraction, even in Absentia.
+Gametime may be Resumed any Time thereafter by the invoking Player
+or by Adjudication. In theory, all Time spent between stretches
+of Gametime, however long, are merely Gamebreak.
+		</rule>
+	</rule>
+	<rule title="Safety">
+No Game Material, including, but not limited to, the Players, 
+the Cards, or the Surface, may be physically Defaced or Altered, 
+except with the expressed Consent of the specific Material's prior Owner.
+	</rule>
+	<rule title="The Squiggbey! Rule">
+No Player may issue any expletive, profanity, or obscenity other
+than the Term "Squigby" during Gametime, or else. A Player may
+escape Barfing under this Rule by invoking Sqkwieggbij!
+	</rule>
+</rule>
+<rule title="The Surface and The Hand">
+	<rule title="The Surface">
+Squigbee! must be played on a reasonably flat Surface, since
+several Piles of Cards must be kept in some passable form of
+Order. Anything face-up on the Surface may be examined by any
+Player at any Time. Cards shall be piled on the
+Surface, either face-up or face-down, on top of a Pile or else
+inside, and the Card Piles on the Playing Surface shall be, to
+wit:
+		<rule title="The Draw Pile">
+The Draw Pile shall consist of the Cards not yet Dealt in this
+Match. The entire contents of the Pile shall normally be kept
+face down on the Playing Surface, or else. Normally, a Player will
+Draw Cards as Specified from this Pile.
+		</rule>
+		<rule title="The Sqwigbee! Pile">
+The Squuigbe! Pile shall be that Pile of Cards into which each Player may Play
+Cards face up. No two Cards of the same Number may be on top of this Pile at
+any Time. If a card that has been Played cannot be placed on the Squygyby!
+Pile, then it must be placed in the Recycling Bin instead. The contents of this
+Pile are Cycled into the Recycling Bin after each Squiegbi!
+		</rule>
+		<rule title="The Recycling Bin">
+All Cards that would Normally have no further significance during
+this Match are placed face-up in the Recycling Bin.
+		</rule>
+	</rule>
+	<rule title="The Hand">
+Each Player may hold up to fifty-four (54) Cards in their Hand.
+The Player has exclusive Rights to the Use and Play of these
+Cards, and may keep all Knowledge about their Hand secret, except
+for the number of Cards held. 
+	</rule>
+</rule>
+<rule title="Lighting the Match">
+	<rule title="The Deck">
+The Deck shall be an approximately randomly distributed set of
+fifty-two (52) to fifty-four (54) standard poker-style playing
+cards. Every Card not a Joker is considered to have a Number.
+	</rule>
+	<rule title="The Dealer">
+A Player may volunteer to be Dealer, unless one (1) has already
+been Selected. If no Player volunteers, one (1) is Selected before
+the Match commences. The Player to the Dealer's left is hereinafter
+referred to as the Connection.
+	</rule>
+	<rule title="The Deal">
+The Dealer then deals seven (7) Cards face-down, one at a time,
+in succession, to each Player, starting with the Connection,
+and finishing with themselves. The Cards Dealt now comprise each
+Player's Hand. The remaining Cards in the Deck become the
+Draw Pile. The Connection then commences the Match with the Play
+of a Card.
+	</rule>
+</rule>
+<rule title="Just Playing Cards">
+	<rule title="Drawing">
+A Player must transfer one (1) or more Cards from a Pile to their
+Hand where Specified, which commences with the Player's hand
+touching the Pile from which the Cards are Drawn.
+	</rule>
+	<rule title="Playing">
+Players have the exclusive Right to Play one (1) or more Cards
+from their Hand to one (1) or more Piles during their Turn, concluding
+with the Player's hand leaving the Pile to which the last Card
+is Played.
+		<rule>
+Cards are normally Played to the Squigbey! Pile, unless otherwise
+Specified.
+		</rule>
+		<rule>
+Once a Player has Played Cards, their Turn is over, and Play
+continues with the Player on their immediate left, or else.
+		</rule>
+	</rule>
+	<rule>
+Only identically Numbered Cards may be Played during a single
+Turn.
+	</rule>
+	<rule>
+Aces may be Played as higher than Kings or lower than Deuces.
+	</rule>
+</rule>
+<rule title="Strategic Maneuvers">
+	<rule title="Opening">
+If the Sqkueggbij! Pile is empty, a Player may Open by Playing
+any Card.
+	</rule>
+	<rule title="Establishing Direction">
+If the Sghwygkbiy! Pile contains at least one (1) Card, and
+Direction has not been established, then a Player may establish 
+Direction by Playing any Card. If the second Card is higher than
+the first, the Direction is considered Upwards; otherwise, it 
+is considered Downwards.
+	</rule>
+	<rule title="Continued Play">
+Once Direction has been established, a Player may normally only 
+Play Cards higher than the top numbered Card of the Pile, if the 
+Direction is Upwards; and only those lower than the top numbered 
+Card, if the Direction is Downwards.
+	</rule>
+	<rule title="Consecutive Play">
+		<rule title="Pull">
+A Player may Play a Card having the same Number 
+as the top numbered Card, if any, of the Squwiygby! Pile by 
+invoking "Pull". The Player who played said top Card must 
+declare "Mulch" before Drawing one (1) Card, or else.
+		</rule>
+		<rule title="Push">
+If there is a top numbered Card on the Szkqwuuigbie! Pile, and said Card was
+Played as a Pull, then a Player may normally Play a Card having the same
+Number by invoking "Push". The Player who played said Pull must declare
+"Mush" before Drawing two (2) cards, or else.
+		</rule>
+		<rule title="Cucamonga">
+If there is a top numbered Card on the Skwuyggbey! Pile, and said Card was
+played as a Push, then a Player may normally Play a Card having the same
+Number by invoking "Cucamonga". The Player who played said Push must normally
+declare "Anaheim" before Drawing three (3) cards, or else.
+		</rule>
+		<rule title="Anti-Cucamonga">
+Instead of declaring "Anaheim", a Player may discard an Ace and invoke
+"Anti-Cucamonga". The Player who originally played the Cucamonga must
+then Draw the three (3) cards instead.
+		</rule>
+		<rule title="Incontravertibility of Mulch">
+In some circles, it is considered Unsqwwwigbylike to Barf a Player for
+invoking Mulch in place of Mush or Cucamonga.
+		</rule>
+	</rule>
+	<rule title="Simultaneous Play">
+		<rule title="Tribble">
+Players may play two (2) Cards simultaneously by invoking "Tribble",
+or else.
+		</rule>
+		<rule title="Homerun">
+Players may play three (3) Cards simultaneously by invoking "Homerun",
+or else.
+		</rule>
+		<rule title="The Greatest Thing Ever">
+Players may play four (4) Cards simultaneously by invoking "The Greatest 
+Thing Ever", or else.
+		</rule>
+	</rule>
+	<rule title="Combinations">
+		<rule title="Double Tribble">
+In the Turn immediately following a Tribble, a Player may play two (2)
+cards of the same Number as the top Card of the Szkooygbbie! Pile by
+invoking "Double Tribble", in place of either Tribble or Pull. The 
+Player who played the original Tribble must then declare Mulch and
+Draw two (2) Cards, or else.
+		</rule>
+	</rule>
+	<rule title="Jokers Wild">
+		<rule>
+Jokers are considered Numberless.
+		</rule>
+		<rule title="Wurlitzer">
+A Player may play a Joker by invoking "Wurlitzer". All Players must then
+pass their Hand to the Player in the direction specified by the invoking Player.
+		</rule>
+		<rule title="Double Wurlitzer">
+In similar fashion, a Player may play two (2) Jokers simultaneously,
+by invoking "Double Wurlitzer", instead of either Tribble or Wurlitzer. 
+Each Player must then pass their Hand twice in the direction specified
+by the invoking Player.
+		</rule>
+		<rule title="Counter-Wurlitzer">
+When a Player invokes Wurlitzer, any other Player may discard a Joker and
+invoke "Counter-Wurlitzer" before Hands are passed, to prevent the Wurlitzer
+from taking place. If Counter-Wurlitzer is invoked, the original Joker stays
+where it was played, and Play continues to the left.
+		</rule>
+		<rule>
+No player may Win by playing a Wurlitzer, Double Wurlitzer, or
+Counter-Wurlitzer.
+		</rule>
+	</rule>
+	<rule title="Fair Warning">
+		<rule title="Wootzle">
+When a Player holds exactly two (2) Cards, they must invoke "Wootzle"
+before the start of the next turn, or else.
+		</rule>
+		<rule title="Wootzit">
+When a Player holds exactly one (1) Card, they must invoke "Wootzit"
+before the start of the next turn, or else draw two (2) Cards.
+		</rule>
+	</rule>
+</rule>
+<rule title="Round and Round and Round in the Circle Game">
+	<rule title="Taking the Sgkuygby!">
+If a Player is unable or unwilling to continue Play, they must
+draw a number of Cards from the Draw Pile equal to the number
+of the Cards in the Squiggbiey! Pile. The Szkhwygkbey! Pile 
+is then emptied face-up into the Recycling Bin. Direction is
+considered disestablished, and the Player then continues their
+Turn normally.
+	</rule>
+	<rule title="One-Card Sgwickbee!">
+Taking a one (1) card Szgkquiygby is Barfable.
+	</rule>
+	<rule title="Emptying the Recycling Bin">
+Before the Draw Pile empties, the Dealer must shuffle the contents
+of the Recycling Bin, and place them face-down at the bottom
+of the Draw Pile, or else.
+	</rule>
+</rule>
+<rule title="Rule Number Six">
+There shall be no Rule Number Six.
+</rule>
+<rule title="Victory Conditions">
+	<rule title="Winning Style">
+Normally, a Player wins a Match when they hold no Cards in their
+Hand. The next Match may then commence with the Connection as the new
+Dealer.
+	</rule>
+	<rule title="Checkmate">
+In the Event that a Player has exactly one (1) Card in their
+Hand, and may establish the Direction of Play, they must invoke
+"Checkmate" before playing a Card, or else.
+	</rule>
+</rule>
+<rule title="Barf">
+Certain Specified Rule Infractions may be Barfed, although Barfing
+may normally only be Invoked during Gametime.
+	<rule title="Challenging">
+Any Player may challenge a Barf with an Adjudication, however,
+the alleged Barfee is automatically Unfit to be Moderator.
+	</rule>
+	<rule title="Justice">
+If a Barf is Challenged, it must be found Just or Unjust by Adjudication;
+if the Barf is not Challenged, it is automatically considered Just.
+	</rule>
+	<rule title="Penalty">
+If a Barf is found Just, the Barfee must draw one (1) Card from
+the Draw Pile, unless otherwise Specified. No Penalty may be
+Invoked for any Infraction if Barf is not Called, or the Barf
+is found Unjust.
+	</rule>
+	<rule title="Wrongful Barf">
+If a Barf is found Unjust, any Player may invoke Wrongful Barf
+to cause the Barfer to normally suffer the Penalty of the original
+Barf.
+	</rule>
+	<rule>
+Unsquwegkbeylike Play may be Barfable, but is always subject
+to Adjudication.
+	</rule>
+</rule>
+<rule title="Adjudication">
+	<rule title="Opening Debate">
+Any Point of Order may be subject to Adjudication at any Time. Any Player may
+implicitly or explicitly open Debate. Gamebreak is automatically Invoked as a
+Result.
+	</rule>
+	<rule title="Moderating Debate">
+The Dealer is normally the Moderator of the Debate. Any Moderator
+may be Adjudicated Unfit by a Majority of the remaining Players,
+in which case the Player to the Moderator's left becomes Moderator. 
+If all Players are Adjudicated Unfit to Moderate, Debate is 
+immediately Concluded with no Adjudication.
+	</rule>
+	<rule title="Impeding Debate">
+The Moderator may Barf any Player that impedes Debate. This Right
+is subject to Wrongful Barf.
+	</rule>
+	<rule title="Concluding Debate">
+The Moderator may declare Debate Concluded with the Consent of
+a Majority of Players to a given Adjudication, or to none at
+all. Note that a "tied vote" does not consitute a Majority. Any 
+Adjudication concluded under Debate is then Binding under these 
+Rules. Gametime resumes normally with the first Play of a Card.
+	</rule>
+</rule>
+</ruleset>
